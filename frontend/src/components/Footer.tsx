@@ -2,7 +2,7 @@ import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 export default function Footer() {
     return (
-        <footer className="bg-gray-100 text-gray-700 font-serif mt-20">
+        <footer className="bg-gray-100 text-gray-700 font-['Roboto'] mt-20">
             <div className="max-w-6xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div>
                     <h2 className="text-2xl font-bold font-display mb-4">La Bromontoise</h2>
